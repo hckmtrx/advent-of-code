@@ -13,4 +13,4 @@
 # Automated Folder structuring
 The `createDir.bat` runs on every **startup** and uses the `DATE` variable to create
 1. This years **YEAR** directory - **if not already existing**
-1. Todays **DAY** directory inside the current **YEAR** directory - **if not already existing**
+1. Todays **DAY** directory inside the **YEAR** directory - **if not already existing**
