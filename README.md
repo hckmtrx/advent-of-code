@@ -9,3 +9,5 @@
 |❄️ [2020](https://github.com/hckmtrx/advent-of-code/tree/main/2020) | 2 | 2 |
 |🎄 2021 | 0 | 0 |
 |❄️ [2022](https://github.com/hckmtrx/advent-of-code/tree/main/2022) | 4 | 4 |
+
+# Automated Folder structuring
