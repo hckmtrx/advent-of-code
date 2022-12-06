@@ -11,7 +11,6 @@ while i < len(data):
         if len(foundLetters) == 14:
             print(i + 1)
             quit()
+        i += 1
     else:
         foundLetters.pop(0)
-        i -= 1
-    i += 1
