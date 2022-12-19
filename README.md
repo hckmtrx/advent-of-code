@@ -8,7 +8,7 @@
 |🎄 2019 | 0 | 0 |
 |❄️ [2020](https://github.com/hckmtrx/advent-of-code/tree/main/2020) | 2 | 2 |
 |🎄 2021 | 0 | 0 |
-|❄️ [2022](https://github.com/hckmtrx/advent-of-code/tree/main/2022) | 7 | 7 |
+|❄️ [2022](https://github.com/hckmtrx/advent-of-code/tree/main/2022) | 8 | 8 |
 
 # Automated Folder structuring
 The `createDir.bat` runs on every **startup** and uses the `DATE` variable to create
